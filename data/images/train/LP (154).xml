@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset 800 X 600</folder>
+	<filename>LP (154).jpg</filename>
+	<path>C:\Users\abc\Desktop\windows_v1.8.0\dataset 800 X 600\LP (154).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>456</ymin>
+			<xmax>339</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>211</ymin>
+			<xmax>98</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>
